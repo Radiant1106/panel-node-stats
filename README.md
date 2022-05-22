@@ -22,7 +22,7 @@ PteroStats checks [pterodactyl](https://pterodactyl.io) nodes wings with [axios]
 
 - [**Cybernetics Development**](https://discord.gg/TCBhPan6SY)
 
-- [**Cybernetics Hostings**](https://imgur.com/a/wBmjDmi)
+- https://imgur.com/a/wBmjDmi
 
 
 ## Installation
@@ -120,3 +120,4 @@ A: You can join our [discord server](https://discord.gg/zv6maQRah3)
 ### Special Thanks to
 
 - ItsJustNickDev(from Discord)
+- Radiant (from Discord and Owner of cybernetics)

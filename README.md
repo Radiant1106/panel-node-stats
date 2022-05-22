@@ -111,7 +111,7 @@ A: You can join our [discord server](https://discord.gg/zv6maQRah3)
 
 ### Links
 
-* __[PteroBot Discord](https://discord.gg/zv6maQRah3)__
+* __[PteroBot Discord](https://dsc.gg/cyberdev)__
 * __[Pterodactyl Panel](https://pterodactyl.io)__
 * __[Pterodactyl API](https://dashflo.net/docs/api/pterodactyl/v1)__
 

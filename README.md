@@ -31,7 +31,7 @@ PteroStats checks [pterodactyl](https://pterodactyl.io) nodes wings with [axios]
 - `Run npm install in the root directory of the bot files`
 - `Run node index.js and you are done`
 
-if you need help contact me on discord `Radiant7759` or join [our discord server here](https://dsc.gg/cyberdev)
+if you need help contact me on discord `Radiant#7759` or join [our discord server here](https://dsc.gg/cyberdev)
 
 ## Admin Apikey Permission
 

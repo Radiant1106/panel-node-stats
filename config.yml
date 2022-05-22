@@ -1,0 +1,48 @@
+# PteroStats config
+# If you need help, join our discord server here: https://dsc.gg/cyberdev
+
+# Bot Info's
+token: '' # Put bot token here, check https://discord.dev to create and get bot token
+botstatus:
+  enable: true # Enable Custom Status (MUST BE "true" OR "false")
+  text: 'CyberDev Panel' # Bot Status Message
+  type: 'WATCHING' # Bot Status Type. Ex: PLAYING, WATCHING, LISTENING, STREAMING
+
+# Channel and RefreshTime Configuration
+channel: '' # Put channel id here where the embed will be sended
+refreshtime: 60 # Time when the embed edited/refreshed (MUST BE A SECONDS) (RECOMMENDED MORE THAN 20 SECONDS)
+
+# Panel Info's
+panel:
+  url: '' # Put panel url here. Example: https://panel.cyberneticsdev.tk
+  adminkey: '' # Put Admin Apikey here. check https://your.host.url/admin/api (your.host.url is an example link) to get the Admin ApiKey
+
+# Embed Configuration
+embed: 
+  title: 'CyberDev Panel Node Stats' # Embed Title here. Ex: PureNodes Stats
+  color: 'E5BE11' # Embed Hex color here.
+  description: 
+    enable: false # Enable Embed Description (MUST BE "true" OR "false")
+    text: 'EMBED DESCRIPTION' # Embed Description
+  footer: 
+    enable: true # Enable Embed Footer (MUST BE "true" OR "false")
+    text: '©️ CyberDev - 2022 | All rights reserved.' # Embed Footer
+  timestamp: true # Enable Embed TimeStamp (MUST BE "true" OR "false")
+
+# Status Message Configuration
+status:
+  online: ':green_circle: Online' # Message if the status is Online
+  offline: ':red_circle: Offline' # Message if the status is Offline
+  check: ':orange_circle: Checking' # Message if the status is Checking
+
+# Node Resource
+resource:
+  enable: true # Enable resource option ex [Ram: 2gb/5gb] bellow node name (MUST BE "true" OR "false")
+  servers: true # Enable Total server on the node to resource text (MUST BE "true" OR "false")
+  allocations: true # Enable Total Allocation on the node to resource text (MUST BE "true" OR "false")
+  location: true # Enable location short name on the node to resource text (MUST BE "true" OR "false")
+  unit: 'percent' # Must be 'mb', 'gb', or 'percent'
+
+# Developers feature
+debug: true # Enable and Disable debug log to console
+debugaxios: true #Enable and Disable axios error logs

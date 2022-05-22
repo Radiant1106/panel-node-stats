@@ -40,7 +40,7 @@ enable `read` on all options, if still didn't work enable `read & write` on all 
 
 ### Setuping Config
 
-You need to put right config to make the bot work at [config.yml](https://github.com/HirziDevs/PteroStats/blob/main/config.yml) file
+You need to put right config to make the bot work at [config.yml](https://github.com/Radiant1106/panel-node-stats/blob/main/config.yml) file
 ```
 # PteroStats config
 # If you need help, join our discord server: https://discord.gg/zv6maQRah3
